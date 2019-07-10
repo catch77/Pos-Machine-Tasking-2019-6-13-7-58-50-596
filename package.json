@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kingswwong/Pos-Machine-Tasking-2019-6-13-7-58-50-596.git"
+    "url": "git+https://github.com/catch77/Pos-Machine-Tasking-2019-6-13-7-58-50-596.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kingswwong/Pos-Machine-Tasking-2019-6-13-7-58-50-596/issues"
+    "url": "https://github.com/catch77/Pos-Machine-Tasking-2019-6-13-7-58-50-596/issues"
   },
-  "homepage": "https://github.com/kingswwong/Pos-Machine-Tasking-2019-6-13-7-58-50-596#readme",
+  "homepage": "https://github.com/catch77/Pos-Machine-Tasking-2019-6-13-7-58-50-596#readme",
   "dependencies": {
     "jest": "^24.8.0"
   }
